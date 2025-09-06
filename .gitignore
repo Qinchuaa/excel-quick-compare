@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Packaging
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.spec
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+
+# Project-specific
+Excel数据对比工具.exe
